@@ -31,11 +31,6 @@ Slippery surface with a 33.3% chance of moving as intended and a 66.6% chance of
 ### Rewards :
 The agent receives a reward of 1 for reaching the goal state, and a reward of 0 otherwise.
 
-### Graphical Representation :
-<p align='center'>
-<image src="https://github.com/ShafeeqAhamedS/monte-carlo-control/assets/93427237/7be7c0fe-f7f7-4b38-809c-405c7b463985">
-</p>
-
 ## MONTE CARLO CONTROL ALGORITHM :
 1. Initialize the state value function V(s) and the policy π(s) arbitrarily.
 2. Generate an episode using π(s) and store the state, action, and reward sequence.
@@ -162,11 +157,6 @@ results(env, optimal_pi, goal_state=goal_state)
 
 ```
 ## OUTPUT :
-### State - Value Function :
-![image](https://github.com/ShafeeqAhamedS/monte-carlo-control/assets/93427237/cf55e033-41c0-412f-ba29-1f7aff6ef3e7)
-
-### Action - Value Function :
-![image](https://github.com/ShafeeqAhamedS/monte-carlo-control/assets/93427237/19b93272-369a-4837-a915-300c2820e4db)
 
 ### Policy :
 ![image](https://github.com/ShafeeqAhamedS/monte-carlo-control/assets/93427237/801edbb1-4db8-4408-8289-ad0710bb6973)
