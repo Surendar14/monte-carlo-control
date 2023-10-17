@@ -52,7 +52,7 @@ The agent receives a reward of 1 for reaching the goal state, and a reward of 0 
 ## MONTE CARLO CONTROL FUNCTION :
 Developed By : **Surendar S**
 </br>
-Register No. : **212221230051**
+Register No. : **212220230051**
 ```python
 import numpy as np
 from tqdm import tqdm
